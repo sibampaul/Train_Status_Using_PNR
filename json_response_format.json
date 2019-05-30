@@ -1,0 +1,10 @@
+{'response_code': 200, 'total_passengers': 1, 'to_station': {'name': 'HOWRAH JN', 'code': 'HWH', 'lat': 22.5957689, 'lng': 88.26363940000002}, 'boa
+rding_point': {'name': 'YASVANTPUR JN', 'code': 'YPR', 'lat': 13.0250302, 'lng': 77.53402419999999}, 'debit': 0, 'train': {'number': '12246', 'name
+': 'YPR - HWH WEEKLY DURANTO', 'days': [{'code': 'MON', 'runs': 'Y'}, {'code': 'TUE', 'runs': 'Y'}, {'code': 'WED', 'runs': 'N'}, {'code': 'THU', '
+runs': 'Y'}, {'code': 'FRI', 'runs': 'Y'}, {'code': 'SAT', 'runs': 'N'}, {'code': 'SUN', 'runs': 'Y'}], 'classes': [{'name': 'SECOND SEATING', 'cod
+e': '2S', 'available': 'N'}, {'name': 'FIRST AC', 'code': '1A', 'available': 'Y'}, {'name': 'SECOND AC', 'code': '2A', 'available': 'Y'}, {'name':
+'AC CHAIR CAR', 'code': 'CC', 'available': 'N'}, {'name': 'THIRD AC', 'code': '3A', 'available': 'Y'}, {'name': '3rd AC ECONOMY', 'code': '3E', 'av
+ailable': 'N'}, {'name': 'SLEEPER CLASS', 'code': 'SL', 'available': 'Y'}, {'name': 'FIRST CLASS', 'code': 'FC', 'available': 'N'}]}, 'passengers':
+ [{'no': 0, 'booking_status': 'CNF', 'current_status': 'CNF'}], 'doj': '10-06-2019', 'reservation_upto': {'name': 'HOWRAH JN', 'code': 'HWH', 'lat'
+: 22.5957689, 'lng': 88.26363940000002}, 'from_station': {'name': 'YASVANTPUR JN', 'code': 'YPR', 'lat': 13.0250302, 'lng': 77.53402419999999}, 'pn
+r': '4604322242', 'chart_prepared': False, 'journey_class': {'code': 'SL', 'name': None}}
