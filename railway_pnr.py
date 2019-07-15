@@ -4,7 +4,7 @@ import json,requests
 
 def get_train_details():
 
-    api_key = "arz6oaccpj"
+    api_key = "arz"
     url = "https://api.railwayapi.com/v2/pnr-status/pnr/"
 
     pnr_number=input("\nPlease Enter Your PNR No. : ")
